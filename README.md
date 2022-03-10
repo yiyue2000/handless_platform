@@ -6,7 +6,7 @@
 2. 设计 schema（渲染的功能表）
 
 
-2022-3-10 周四
+**2022-3-10 周四**
 1. 今天使用 vite 来把自己的 项目 start up 了，之前还在琢磨 webpack + react 来着
 2. 安装了 react-router，能实现路由跳转功能了。
 - 发现问题：默认安装的是最新版的 react-router-dom 6，但是看的文档是 react-router 5 的内容。并且中文文档是有延时的……给的例子也不对
